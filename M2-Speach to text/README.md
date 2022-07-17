@@ -2,7 +2,9 @@
 
 ## Speach To Text Application.
 
+### You can convert speech from audio to text in Arabic. Try it!
+
 ![My Image](stt.png)
 
 
-### you can find the Second mission (ESP32) here: https://github.com/YousefKhalid/M1-SM-IOT
+
