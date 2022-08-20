@@ -1,7 +1,7 @@
 *{padding:0;margin:0;box-sizing:border-box; border-radius: 5px;}
 body{
 
-    background:cornflowerblue;
+    background-image: linear-gradient(#0F2027, #203A43, #2C5364);
     width:100%;
      height:100vh;
      display:grid;
@@ -12,35 +12,26 @@ button{
     padding: 8px 43px;
     border: 0;
     outline: 0;
-    background: brown;
+    background: rgb(80, 137, 243);
     color: white;
     border-radius: 20px;
     font-size: larger;
     background-position-x: -7px;
     position: absolute;
-    left: 895px;
-    bottom: 345px;
+    left: 650px;
+    bottom: 440px;
 }
 h1{
 
-   color:white;
+    color:rgb(139, 122, 122);
+    position: absolute;
     font-family:sans-serif;
-   margin-bottom:10px;
-   text-shadow:2px 3px 5px grey;
+    margin-bottom:10px;
     letter-spacing:2px;
+    top: 200px;
+    left: 490px;
 
 }
 
-#sm {
-    position: absolute;
-    left: 820px;   
-    top: 170px;
-}
 
-#ruh{
-    background: brown;
-    color: cornflowerblue;
-    position: absolute;
-    left: 890px;
-    top: 300px;
-} 
+
